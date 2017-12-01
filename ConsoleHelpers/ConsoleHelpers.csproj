@@ -1,7 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>WilliamBradley.ConsoleHelpers</PackageId>
+    <Title>ConsoleHelpers</Title>
+    <Description>A bunch of helpful methods and shortcuts for interacting with System.Console</Description>
+    <PackageTags>Console System.Console Helpers System NETStandard Analytics</PackageTags>
   </PropertyGroup>
-
 </Project>

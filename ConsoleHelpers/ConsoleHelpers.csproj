@@ -3,7 +3,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>WilliamBradley.ConsoleHelpers</PackageId>
     <Title>ConsoleHelpers</Title>
-    <Description>A bunch of helpful methods and shortcuts for interacting with System.Console</Description>
+    <Description>A bunch of helpful methods and shortcuts for interacting with System.Console.</Description>
     <PackageTags>Console System.Console Helpers System NETStandard Analytics</PackageTags>
+    <RootNamespace>WAConsoleHelpers</RootNamespace>
+    <AssemblyName>WABradley.ConsoleHelpers</AssemblyName>
+    <PackageProjectUrl>https://github.com/WilliamABradley/ConsoleHelpers</PackageProjectUrl>
+    <Version>1.2.0</Version>
+    <Authors>WilliamABradley</Authors>
+    <Company />
+    <Product>ConsoleHelpers</Product>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
 </Project>

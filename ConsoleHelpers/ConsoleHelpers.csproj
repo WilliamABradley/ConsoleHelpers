@@ -8,7 +8,7 @@
     <RootNamespace>WAConsoleHelpers</RootNamespace>
     <AssemblyName>WABradley.ConsoleHelpers</AssemblyName>
     <PackageProjectUrl>https://github.com/WilliamABradley/ConsoleHelpers</PackageProjectUrl>
-    <Version>1.2.0</Version>
+    <Version>1.3.0</Version>
     <Authors>WilliamABradley</Authors>
     <Company />
     <Product>ConsoleHelpers</Product>

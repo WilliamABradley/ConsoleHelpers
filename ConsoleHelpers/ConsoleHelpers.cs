@@ -99,7 +99,7 @@ namespace WAConsoleHelpers
 
             if (Value?.GetType().IsClass == true && !PreventSerialize)
             {
-                propertyvalue = JsonConvert.SerializeObject(Value);
+                propertyvalue = Environment.NewLine + JsonConvert.SerializeObject(Value, Formatting.Indented);
             }
 
             Console.WriteLine(propertyvalue);
